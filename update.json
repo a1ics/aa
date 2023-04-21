@@ -3,7 +3,7 @@
   "ver": "1.2.1",
   "data": {
     "exter": "",
-    "is_right": "",
+    "is_right": true,
     "metas": {
       "t": 167800897,
       "meta_a": "",
