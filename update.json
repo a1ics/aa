@@ -1,5 +1,17 @@
 {
-  "version_code": 1001,
-  "ver_name": "10.0.1",
-  "code": 1
+  "code": 0,
+  "ver": "1.2.1",
+  "data": {
+    "exter": "",
+    "is_right": "",
+    "metas": {
+      "t": 167800897,
+      "meta_a": "",
+      "meta_b": "",
+      "meta_c": "",
+      "meta_d": ""
+    }
+  },
+  "error_code": 0,
+  "error_msg": ""
 }
